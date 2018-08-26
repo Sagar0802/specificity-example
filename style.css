@@ -1,0 +1,7 @@
+body {
+    background: blue;
+}
+header.main h1.title{
+    /* specificity is increased by using classes of the element(heder and title) */
+    color: white;
+}
